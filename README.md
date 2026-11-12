@@ -14,4 +14,4 @@ SchoolCalculator PRO 🎓
 
 Разработчик
 
-SchoolCalculator PRO
+denchik
